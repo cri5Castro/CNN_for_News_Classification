@@ -1,10 +1,11 @@
 ---
 # Convolutional Neural Networks for text classification
 ---
-<br>
-<center><h3> Abstract </h3></center>
+<p align="center">
+## Abstract
  Text classification is one of the most common NLP tasks, there are plenty approaches that can be taken  but sometimes is difficult to think that famous approaches in other ML areas could be useful to perform text analysis, this time we'll try to apply CNN originally designed and widely applied to image analysis to perform text classification.
 ​
+</p>
 ***Motivation:***
 - CNNs are faster to train than LSTM models.
 - CNNs are translation invariant, that means they could recognize patterns in the text no matter where they are.
