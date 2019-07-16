@@ -24,7 +24,8 @@
 ***Note***: In this notebook we put and a special focus on computational performance,  we tried to avoid extra computational complexity repeating tasks, so feel free to contact us if there is any doubt.
 
 
-****Important****: this is a port from the original kernel hosted in kaggle take care of the dependecies and the data set.
+****Important****: this is a fork from the original kernel hosted in kaggle take care of the dependecies and the data set.
+- ## [Original Kernel](https://www.kaggle.com/criscastromaya/cnn-for-nlp-in-keras)
+
 - [Dataset](https://www.kaggle.com/mgocen/20newsgroups)
 - [Pretrained Embeddings](https://www.kaggle.com/facebook/fasttext-english-word-vectors-including-subwords)
-- [Original Kernel](https://www.kaggle.com/criscastromaya/cnn-for-nlp-in-keras)
